@@ -8,25 +8,47 @@
 }
 @media screen and (min-height: 700px) and (max-height: 900px) {
 
-    .father {
+    .box0 {
+        height: 200px;
+        width: 100%;
+        background-color: darkgreen;
+    }
+
+}
+
+@media screen and (min-height: 700px) and (max-height: 900px) {
+
+    .box1 {
         height: 100px;
-        background-color: blue;
+        width: 34%;
+        background-color: silver;
     }
 
 }
 @media screen and (min-height: 700px) and (max-height: 900px) {
 
-    . {
+    .box2 {
         height: 100px;
-        background-color: blue;
+        width: 33%;
+        background-color: slategray;
     }
 
 }
 @media screen and (min-height: 700px) and (max-height: 900px) {
 
-    . {
+    .box3 {
         height: 100px;
-        background-color: blue;
+        width: 33%;
+        background-color: lightslategray;
+    }
+
+}
+@media screen and (min-height: 700px) and (max-height: 900px) {
+
+    .global {
+        height: 500px;
+        width: 100%;
+
     }
 
 }

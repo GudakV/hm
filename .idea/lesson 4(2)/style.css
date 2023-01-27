@@ -3,8 +3,38 @@
     width: 100%;
     background-color: dodgerblue;
 }
-.father{
+.box0{
     height: 200px;
     width: 75%;
     background-color: green;
+}
+.box1 {
+    height: 200px;
+    width: 25%;
+    background-color: silver;
+}
+.box2 {
+    height: 200px;
+    width: 25%;
+    background-color: slategray;
+}
+.box3 {
+    height: 200px;
+    width: 25%;
+    background-color: lightslategray;
+}
+.BOX {
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+.global {
+    height: 400px;
+    width: 100%;
+    background-color: saddlebrown;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
 }
