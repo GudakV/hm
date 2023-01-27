@@ -1,0 +1,10 @@
+.box {
+    height: 200px;
+    width: 100%;
+    background-color: dodgerblue;
+}
+.father{
+    height: 200px;
+    width: 75%;
+    background-color: green;
+}
